@@ -27,3 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-costa-barros&" alt="thiago-costa-barros" /></p>
 </div>
+
+<div style="display: inline_block"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-costa-barros&layout=compact&theme=defaut" />
+</div>
