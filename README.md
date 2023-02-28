@@ -22,15 +22,15 @@
  <img align="center" height="50" width="50" src="https://prismalens.vercel.app/header/logo-dark.svg">
 </div>
 <br><br>
- <div>
+ <div style="display: flex" >
  <b align="center"> 📊 Métricas do Github: </b>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-costa-barros&label=Profile%20views&color=0e75b6&style=flat" alt="thiago-costa-barros" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiago-costa-barros&label=Profile%20views&color=0e75b6&style=flat" alt="thiago-costa-barros" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiago-costa-barros&show_icons=true&locale=en" alt="thiago-costa-barros" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiago-costa-barros&show_icons=true&locale=en" alt="thiago-costa-barros" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-costa-barros&layout=compact&theme=defaut" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-costa-barros&" alt="thiago-costa-barros" /></p>
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-costa-barros&layout=compact&theme=defaut" />
+
 </div>
